@@ -1,0 +1,4 @@
+resources:
+- argocd-admin.yaml
+- production-united-states-west-environment.yaml
+- production-united-states-west-rolebinding.yaml
